@@ -1,0 +1,2 @@
+# Accuracy-and-Prediction-Performance-of-Collaborative-Filtering-Algorithms-Using-Deep-Learning.
+Developed a hybrid deep learning model combining Neural Collaborative Filtering (NCF) with CNN to address data sparsity and item synonymy in movie recommendation. Evaluated the model on MovieLens 1M using RMSE, MAE, and Recall@5. The proposed ConCF model outperformed existing approaches in accuracy and robustness.
